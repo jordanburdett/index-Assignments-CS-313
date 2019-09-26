@@ -43,10 +43,10 @@
                 
 
                 for ($i = 0; $i < 10; $i++) {
-                    echo "counting: $i";
+                    echo "<p class='phpP'>counting: $i </p><br>";
                 }
 
-                echo date("Y/m/d");
+                echo "<p class='phpP'>" . date("Y/m/d") . "</p>";
 
                 ?>
 
