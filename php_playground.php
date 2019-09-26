@@ -16,13 +16,18 @@
     </div>
 
     <div class="row">
-            <div class="col-md-2" id="navbarDiv">
-                <h3 class="headerMiddle">Links</h3>
-                <a href="home.html" class="link">
-                        <p class="selector">PHP</p></a>
-                <a href="assignments.html" class="link">
-                    <p class="selector">Assignments</p></a>
-            </div>
+    <div class="col-md-2" id="navbarDiv">
+            <h3 class="headerMiddle">Links</h3>
+            <a href="home.html" class="link">
+                <p class="selector">Home</p>
+            </a>
+            <a href="assignments.html" class="link">
+                <p class="selector">Assignments</p>
+            </a>
+            <a href="php_playground.php" class="link">
+                <p class="selector">PHP testing/playground</p>
+            </a>
+        </div>
             <div class="col" id="assignments">
                 <h3 class="headerLeft">This is where your test code will show up!
                 </h3>
@@ -35,7 +40,7 @@
                 //echo "<p> My hope is that this page will just get longer and longer as I learn more about PHP! </p>"
 
 
-
+                echo "this is a test";
 
 
 
