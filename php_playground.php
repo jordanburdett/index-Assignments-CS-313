@@ -11,9 +11,42 @@
     </head>
 <body>
 
-<?php
-echo "My first PHP script!";
-?>
+<div class="container-fluid" id="headerDiv">
+        <h1 class="display-4">PHP Playground</h1>
+    </div>
+
+    <div class="row">
+            <div class="col-md-2" id="navbarDiv">
+                <h3 class="headerMiddle">Links</h3>
+                <a href="home.html" class="link">
+                        <p class="selector">PHP</p></a>
+                <a href="assignments.html" class="link">
+                    <p class="selector">Assignments</p></a>
+            </div>
+            <div class="col" id="assignments">
+                <h3 class="headerLeft">This is where your test code will show up!
+                </h3>
+               
+                <?php
+                /**********************************************************
+                 * Put Your test PHP code in here! or just anywhere in this div!
+                 */
+                echo "<p> This is part of the PHP code</p>"
+                echo "<p> My hope is that this page will just get longer and longer as I learn more about PHP! </p>"
+
+
+
+
+
+
+
+                ?>
+
+                
+            </div>
+        </div>
+
+
 
 </body>
 </html>
