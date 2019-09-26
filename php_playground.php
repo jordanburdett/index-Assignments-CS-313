@@ -31,8 +31,8 @@
                 /**********************************************************
                  * Put Your test PHP code in here! or just anywhere in this div!
                  */
-                echo "<p> This is part of the PHP code</p>"
-                echo "<p> My hope is that this page will just get longer and longer as I learn more about PHP! </p>"
+                //echo "<p> This is part of the PHP code</p>"
+                //echo "<p> My hope is that this page will just get longer and longer as I learn more about PHP! </p>"
 
 
 
