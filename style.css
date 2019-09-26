@@ -36,7 +36,7 @@ p {
 }
 
 .phpP {
-    padding: 1px;
+    padding: none;
     width: 90%;
     color: blueviolet;
 }
