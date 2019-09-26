@@ -40,10 +40,13 @@
                 echo "<p class='phpP'> My hope is that this page will just get longer and longer as I learn more about PHP! </p>";
 
 
-                echo "this is a test";
+                
 
+                for ($i = 0; $i < 10; $i++) {
+                    echo "counting: $i";
+                }
 
-
+                echo date("Y/m/d");
 
                 ?>
 

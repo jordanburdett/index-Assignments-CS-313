@@ -31,7 +31,7 @@
 
 p {
     
-    padding: 5%;
+    padding: 2%;
     width:100%;
 }
 
@@ -43,11 +43,13 @@ p {
 
 .headerMiddle {
     text-align: center;
+    padding-top: 1%;
 }
 
 .headerLeft {
     text-align: left;
     padding-left: 5%;
+    padding-top: 1%;
 }
 
 .assignment {
