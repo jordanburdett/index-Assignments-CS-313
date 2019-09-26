@@ -35,6 +35,12 @@ p {
     width:100%;
 }
 
+.phpP {
+    padding: 1px;
+    width: 90%;
+    color: blueviolet;
+}
+
 .headerMiddle {
     text-align: center;
 }
