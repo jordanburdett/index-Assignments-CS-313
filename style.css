@@ -6,6 +6,7 @@
 
 .link {
     color:black;
+    padding-left: 10px;
 }
 
 .link:hover {
@@ -27,7 +28,7 @@
         font-size: 20px;
         padding-top: 2%;
     }
-    
+
     h5 {
         display: none;
     }
