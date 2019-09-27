@@ -1,12 +1,13 @@
 #navbarDiv {
     background: whitesmoke;
-    padding-left: 2%;
-    
+   padding: 2%;
+   padding-top: 0.2%; 
+   padding-bottom: none; 
 }
 
 .link {
     color:black;
-    padding-left: 10px;
+    
 }
 
 .link:hover {
