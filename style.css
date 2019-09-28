@@ -85,7 +85,7 @@ img {
         text-align: center;
         font-size: 40px;
         padding-top: 3%;
-        padding-bottom: 2%;
+        padding-bottom: 1%;
     }
 
     h5 {
@@ -98,5 +98,9 @@ img {
 
     #pictureDiv {
         padding: 5%;
+    }
+
+    #navbarDiv {
+        padding-left: 7%;
     }
 }
