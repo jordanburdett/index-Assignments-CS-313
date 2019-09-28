@@ -1,7 +1,9 @@
 #navbarDiv {
     background: whitesmoke;
-   padding-left: 5%;
+    
+   padding-left: 3%;
    padding-top: 0.2%; 
+   
    padding-bottom: none; 
 }
 
@@ -20,29 +22,13 @@
     background: #4a4a4a;
     padding-left: 10%;
     padding-bottom: 5px;
-    color:whitesmoke;
+    color: whitesmoke;
 }
 
-@media only screen and (max-width: 600px) {
-    h1.display-4 {
-        text-align: center;
-        font-size: 40px;
-        padding-top: 3%;
-        padding-bottom: 2%;
-    }
 
-    h5 {
-        display: none;
-    }
-    
-    #aboutDiv {
-        padding-left: 5%;
-    }
-}
 
 #pictureDiv {
     border: solid whitesmoke;
-    padding: 5%;
 }
 
 #hobbieDiv {
@@ -92,4 +78,25 @@ img {
     -webkit-box-shadow: 3px 3px 5px 6px whitesmoke; 
     -moz-box-shadow:    3px 3px 5px 6px whitesmoke;  
     box-shadow:         3px 3px 5px 6px whitesmoke;
+}
+
+@media only screen and (max-width: 600px) {
+    h1.display-4 {
+        text-align: center;
+        font-size: 40px;
+        padding-top: 3%;
+        padding-bottom: 2%;
+    }
+
+    h5 {
+        display: none;
+    }
+
+    #aboutDiv {
+        padding-left: 5%;
+    }
+
+    #pictureDiv {
+        padding: 5%;
+    }
 }

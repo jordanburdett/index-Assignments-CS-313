@@ -25,7 +25,7 @@
                 <p class="selector">Assignments</p>
             </a>
             <a href="php_playground.php" class="link">
-                <p class="selector">PHP testing/playground</p>
+                <p class="selector">PHP testing</p>
             </a>
         </div>
             <div class="col" id="assignments">
